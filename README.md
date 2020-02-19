@@ -1,5 +1,5 @@
 
-[![apk ownload](https://github.com/op07n/flutter-githubaction/releases)
+[apk ownload](https://github.com/op07n/flutter-githubaction/releases)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
