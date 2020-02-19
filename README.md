@@ -1,3 +1,6 @@
+
+[![apk ownload](https://github.com/op07n/flutter-githubaction/releases)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![](https://github.com/nabilnalakath/flutter-action/workflows/main.yml/badge.svg)
