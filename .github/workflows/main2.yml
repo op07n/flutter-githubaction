@@ -1,4 +1,7 @@
-on: push
+on:
+  push:
+    branches:
+      - v1 # Push events 
 name: Test, Build and Release apk
 jobs:
   build:
